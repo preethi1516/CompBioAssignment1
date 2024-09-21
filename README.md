@@ -4,17 +4,21 @@ Z- Algorithm is a Exact pattern matching algorithm with time complexity of O(n) 
 
 ## Steps to run
 
-1. clone or download the repository. To clone open the command line and run the below command.
+1. install argparse, if not present.
 ```
-git clone 
+pip install argparse
+```
+2. clone or download the repository. To clone open the command line and run the below command.
+```
+git clone https://github.com/preethi1516/ZAlgo.git
 ```
 
-2. Move to the cloned/downloaded directory.
+3. Move to the cloned/downloaded directory.
 ```
 cd /pathWhereItWasCloned/zAlgo
 ```
 
-3. Run the python file to get the result both in standard output as-well into a "sol_{x}" result file. Pass the input file as arguments, below code has 2 example, default input is "sample_0".
+4. Run the python file to get the result both in standard output as-well into a "sol_{x}" result file. Pass the input file as arguments, below code has 2 example, default input is "sample_0".
 ```
 # Default runs with sample_0
 python3 exactPatternMatching.py 
