@@ -16,7 +16,7 @@ git clone https://github.com/preethi1516/CompBioAssignment1.git
 
 3. Move to the cloned/downloaded directory.
 ```
-cd /pathWhereItWasCloned/zAlgo
+cd /pathWhereItWasCloned/Question1
 ```
 
 4. Run the python file to get the result both in standard output as-well into a "sol_{Input Number}" result file. Pass the input file as arguments, below code has 2 example, default input is "sample_0".
