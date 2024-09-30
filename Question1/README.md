@@ -1,6 +1,7 @@
 # Z- Algorithm 
 
 Z- Algorithm is a Exact pattern matching algorithm with time complexity of O(n) n=length of pattern + length of text.
+Link to git Repo: https://github.com/preethi1516/CompBioAssignment1/tree/main
 
 ## Steps to run
 
