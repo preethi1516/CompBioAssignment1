@@ -10,7 +10,7 @@ pip install argparse
 ```
 2. clone or download the repository. To clone open the command line and run the below command.
 ```
-git clone https://github.com/preethi1516/ZAlgo.git
+git clone https://github.com/preethi1516/CompBioAssignment1.git
 ```
 
 3. Move to the cloned/downloaded directory.
